@@ -5,3 +5,7 @@ import pandas as pd
 code terbaru dari delfi
 
 coding terbaru yang lengkap dari tiara
+
+#ekperimen code dari delfi branch
+
+# code eksperimen 2
